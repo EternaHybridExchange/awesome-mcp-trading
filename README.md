@@ -49,6 +49,8 @@
 ## Trading Tools
 
 - [MCP Trading Agent](https://github.com/eterna-exchange/mcp-trading-agent) - IDE configurations and trading strategies for Claude Code, Cursor, and Claude Desktop.
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin providing SEO and Google Ads skills. Meta tags, schema markup, keyword bids, and CMS content pushes via MCP.
+
 
 ## Agent Frameworks
 
