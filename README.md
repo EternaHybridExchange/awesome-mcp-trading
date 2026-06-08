@@ -40,7 +40,7 @@
 
 ## DEX and DeFi
 
-- Your contribution here!
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet reputation before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## Portfolio Management
 
