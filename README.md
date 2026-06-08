@@ -37,10 +37,11 @@
 ## Market Data and Analysis
 
 - [lumifai-cryptocurrency-technical-analysis](https://github.com/lumifai/cryptocurrency-technical-analysis-mcp) - Cryptocurrency technical analysis via MCP.
+- [The Stall MCP](https://the-stall.intuitek.ai) - 173-tool MCP server with comprehensive market data: US equity OHLCV, multi-ticker prices, fundamentals, earnings, analyst ratings, macro indicators (treasury yields, economic calendar, FOMC tracker), crypto market data, DeFi state pack, and prediction markets. x402 pay-per-call on Base; no API key required.
 
 ## DEX and DeFi
 
-- Your contribution here!
+- [The Stall MCP](https://the-stall.intuitek.ai) - DeFi and DEX capabilities: real-time protocol yields, gas price estimator, perpetual funding rates, DEX pair search and swap quotes, stablecoin depeg monitor, on-chain DeFi portfolio analytics, and Base chain season overview. x402 pay-per-call on Base; no API key required.
 
 ## Portfolio Management
 
