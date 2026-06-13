@@ -37,6 +37,7 @@
 ## Market Data and Analysis
 
 - [lumifai-cryptocurrency-technical-analysis](https://github.com/lumifai/cryptocurrency-technical-analysis-mcp) - Cryptocurrency technical analysis via MCP.
+- [polymarket-mcp-server](https://github.com/Birantx/polymarket-mcp-server) - Credential-free MCP server for Polymarket prediction markets: market search, live order books, price history, and a liquidity-rewards scanner ranking markets by reward pool / competition.
 
 ## DEX and DeFi
 
