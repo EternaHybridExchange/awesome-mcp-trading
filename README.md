@@ -37,6 +37,7 @@
 ## Market Data and Analysis
 
 - [lumifai-cryptocurrency-technical-analysis](https://github.com/lumifai/cryptocurrency-technical-analysis-mcp) - Cryptocurrency technical analysis via MCP.
+- [patternfetch](https://github.com/MarvinRey7879/patternfetch-client) - Token-compact crypto market-state briefs (compact candles, chart patterns, support/resistance, regime, RSI/EMA) in one MCP call, avoiding raw OHLCV in the agent's context.
 
 ## DEX and DeFi
 
