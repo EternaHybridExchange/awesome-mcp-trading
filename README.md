@@ -52,7 +52,7 @@
 
 ## Agent Frameworks
 
-- Your contribution here!
+- [OpenThomas](https://github.com/PredictionMarketTrader/openthomas) - Autonomous weather-market trading agent for Kalshi and Polymarket with a built-in MCP server, multi-model forecast calibration, and risk-constrained execution.
 
 ## Resources
 
