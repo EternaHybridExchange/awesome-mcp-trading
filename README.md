@@ -61,6 +61,8 @@
 - [Model Context Protocol Specification](https://spec.modelcontextprotocol.io/) - The official MCP specification.
 - [MCP Introduction](https://modelcontextprotocol.io/introduction) - Getting started with MCP.
 - [Eterna Documentation](https://docs.eterna.exchange/) - Documentation for the Eterna MCP Gateway.
+- [HostDeFi](https://hostdefi.com/api/v1/mcp) - Hosted MCP server: free token-safety scans (A+–F grades) across Solana and 7 EVM chains, plus x402-paid analytics endpoints.
+
 
 ### Tutorials
 
