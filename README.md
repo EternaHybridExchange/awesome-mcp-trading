@@ -36,6 +36,7 @@
 
 ## Market Data and Analysis
 
+- [Lava](https://github.com/dustinliang666-blip/lava-mcp) - Read-only China A-share news-flow heat monitoring via remote MCP (Streamable HTTP) and REST API.
 - [lumifai-cryptocurrency-technical-analysis](https://github.com/lumifai/cryptocurrency-technical-analysis-mcp) - Cryptocurrency technical analysis via MCP.
 
 ## DEX and DeFi
