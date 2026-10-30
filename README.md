@@ -49,6 +49,7 @@
 ## Trading Tools
 
 - [MCP Trading Agent](https://github.com/eterna-exchange/mcp-trading-agent) - IDE configurations and trading strategies for Claude Code, Cursor, and Claude Desktop.
+- [Nyria MCP](https://github.com/Nyria-LLC/nyria-mcp) - Hosted MCP server that sends trade alerts from Claude, Cursor or any MCP client to a paper account or a broker.
 
 ## Agent Frameworks
 
