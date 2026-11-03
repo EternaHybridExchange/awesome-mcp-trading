@@ -33,6 +33,7 @@
 ## Multi-Exchange
 
 - [CCXT MCP](https://github.com/ccxt/ccxt-mcp-server) - MCP server powered by CCXT supporting 100+ exchanges.
+- [Trend0x MCP](https://github.com/trend0xai/trend0x-mcp) - Hosted MCP server for market data, portfolio, backtests, paper runs and confirmation-gated orders across Bybit, OKX, Binance, Bitpanda, WhiteBIT and Alpaca.
 
 ## Market Data and Analysis
 
