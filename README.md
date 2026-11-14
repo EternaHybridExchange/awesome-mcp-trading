@@ -36,6 +36,7 @@
 
 ## Market Data and Analysis
 
+- [fahali-mcp](https://github.com/Future-Legends-Inc/fahali-mcp) - Read-only portfolio risk analysis, stress testing, contagion detection, and pre-trade risk observations for crypto and US equities.
 - [lumifai-cryptocurrency-technical-analysis](https://github.com/lumifai/cryptocurrency-technical-analysis-mcp) - Cryptocurrency technical analysis via MCP.
 
 ## DEX and DeFi
